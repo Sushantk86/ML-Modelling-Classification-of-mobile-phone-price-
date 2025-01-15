@@ -1,5 +1,5 @@
-# Data_Enthusiast
-Mobile Price Classification- the dataset taken from Kaggle 
+
+Mobile Price Classification
 
 The size of this dataset is 2000* 21. There are 2000 observations (rows) in the dataset and 21 variables (columns).![image](https://user-images.githubusercontent.com/96862493/193167814-6b37d01d-f15d-4f10-b1a3-ae92036eee25.png)
 
